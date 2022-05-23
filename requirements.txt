@@ -1,0 +1,6 @@
+seaborn
+pytorch-lightning>=1.6
+torch>=1.6<1.9
+pandas
+torchvision
+torchmetrics>=0.6

@@ -1,0 +1,6 @@
+preds/
+__pycache__
+.ipynb_checkpoints
+.vscode
+MNIST/*
+logs/*
